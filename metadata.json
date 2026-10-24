@@ -1,0 +1,6 @@
+{
+  "name": "The Pregnancy Journey - 2D Adventure Game",
+  "description": "A heartwarming, educational 2D adventure game following a couple across all 10 stages of pregnancy, featuring nutrition power-ups, partner teamwork, and health wisdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
